@@ -1,6 +1,6 @@
 {
-  "name": "lotusbail",
-  "version": "7.0.0-rc13",
+  "name": "@etcxn/bail",
+  "version": "1.0.0",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
